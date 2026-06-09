@@ -54,12 +54,14 @@ GET http://localhost:5000/notifications?notification_type=Placement
 ### Backend
 
 cd leaving_modules/backend
+
 npm install
 node index.js
 
 ### Frontend
 
 cd leaning_modules/frontend
+
 npm install
 npm start
 
